@@ -21,3 +21,4 @@ spring:
 
 jwt:
   secret: LevZH5wwRH6O6E9QRwwdPD4OqTCZ84opgnF++duOvRk=
+
